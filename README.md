@@ -41,3 +41,12 @@ Mint NFTs: Use the "Create NFT" option to upload your asset and mint it as an NF
 Trade: Browse, buy, and sell NFTs securely using your wallet.
 Contribution
 Contributions are welcome! Please feel free to open issues or submit pull requests.
+
+
+
+in action :  https://mustcodeq.github.io/NFT-Marketplace/
+
+
+
+![coin-port](https://github.com/user-attachments/assets/818a86e5-9e07-463c-b823-d7da94125bb3)
+
