@@ -1,5 +1,5 @@
 Must Code - NFT Marketplace
-Must Code - NFT Marketplace is a decentralized platform where users can create, buy, sell, and trade Non-Fungible Tokens (NFTs). Built on blockchain technology, it offers a secure, transparent, and user-friendly interface for artists, creators, and collectors to interact with digital assets.
+Must Code - NFT Marketplace this is just a front-end of  decentralized platform where users can create, buy, sell, and trade Non-Fungible Tokens (NFTs). Built on blockchain technology, it offers a secure, transparent, and user-friendly interface for artists, creators, and collectors to interact with digital assets.
 
 Features
 Mint NFTs: Easily create and list unique digital assets on the blockchain.
